@@ -6,7 +6,7 @@ import ParticlesBackground from './components/ParticlesBackground'
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: 'Daniel Pitropovski Portfolio',
+  title: 'Portfolio',
   description: 'Mobile App Developer Portfolio',
   icons: {
     icon: '/favicon.ico',
